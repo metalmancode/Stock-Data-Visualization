@@ -32,24 +32,7 @@ The final output consists of two graphs, one for Tesla and one for GameStop, eac
 **Example of how to add an image:**
 `![Tesla Stock Graph](path/to/your/tesla_graph_screenshot.png)`
 
-## 🚀 How to Run This Project
 
-1.  **Clone the repository:**
-    ```bash
-    git clone [https://github.com/YOUR-USERNAME/Stock-Data-Visualization.git](https://github.com/YOUR-USERNAME/Stock-Data-Visualization.git)
-    cd Stock-Data-Visualization
-    ```
-
-2.  **Create a virtual environment (recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
-    ```
-
-3.  **Install the required dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 4.  **Run the Jupyter Notebook:**
     ```bash
