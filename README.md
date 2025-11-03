@@ -23,14 +23,16 @@ This project is based on an assignment from the IBM Data Science Professional Ce
 
 ## 📈 Results / Output
 
+
 The final output consists of two graphs, one for Tesla and one for GameStop, each displaying:
 1.  **Historical Share Price** (up to June 2021)
 2.  **Historical Quarterly Revenue** (up to April 2021)
 
-*(Optional: Insert screenshots of your final graphs here)*
+### Tesla (TSLA)
+![Tesla Stock and Revenue Graph](https://github.com/metalmancode/Stock-Data-Visualization/raw/main/tesla_plot.png)
 
-**Example of how to add an image:**
-`![Tesla Stock Graph](path/to/your/tesla_graph_screenshot.png)`
+### GameStop (GME)
+![GameStop Stock and Revenue Graph](https://github.com/metalmancode/Stock-Data-Visualization/raw/main/GME_plot.png)
 
 
 
